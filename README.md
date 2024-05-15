@@ -1,11 +1,11 @@
 ---
-title: Snowflake Arctic St Demo
+title: AI_interview_LLM_Snowflake
 emoji: 📈
 colorFrom: indigo
 colorTo: pink
 sdk: streamlit
 sdk_version: 1.33.0
-app_file: app.py
+app_file: interview.py
 pinned: false
 license: apache-2.0
 models: 
